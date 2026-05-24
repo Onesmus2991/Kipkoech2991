@@ -2,5 +2,5 @@
 Student
 # Terah Too
 kabarak Student
-#Leone Kiptoo
+# Leone Kiptoo
 Student
