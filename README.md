@@ -4,5 +4,3 @@ Student
 kabarak Student
 # Leone Kiptoo
 Student
-onesmus kipkoech
-Team project
